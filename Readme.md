@@ -1,1 +1,1 @@
-In this repository, i am going to upload all my python projects that are made b me.
+In this repository, I have uploaded all the projects that i made while learning python from beginner to advance.
